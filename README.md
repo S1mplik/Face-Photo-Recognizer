@@ -8,15 +8,15 @@
 ## How to use:
 Install on terminal
 ```
-gh repo clone Danix25/Face-Photo-Recognition
+gh repo clone Danix25/Face-Photo-Recognizer
 ```
 If you have use image recognition exract
 
-`Face-Photo-Recognition-main.zip\Face-Photo-Recognition-main` and `Face-Photo-Recognition-main.zip\Face-Photo-Recognition-main\Images`
+`Face-Photo-Recognizer-main.zip\Face-Photo-Recognizer-main` and `Face-Photo-Recognizer-main.zip\Face-Photo-Recognizer-main\Images`
 
 If you have use live face recognition extract
 
-`Face-Photo-Recognition-main.zip\Face-Photo-Recognition-main` and `Face-Photo-Recognition-main.zip\Face-Photo-Recognition-main\ImageAtendance`
+`Face-Photo-Recognizer-main.zip\Face-Photo-Recognizer-main` and `Face-Photo-Recognizer-main.zip\Face-Photo-Recognizer-main\ImageAtendance`
 
 ## How it works:
 System using [face_recognition](https://github.com/ageitgey/face_recognition) and [speech_recognition](https://github.com/Uberi/speech_recognition). First program load database.
