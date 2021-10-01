@@ -1,4 +1,4 @@
-# Face-Photo-Recognition
+# Face-Photo-Recognizer
 
 ## Don't copy this code. Licensed of Apache License 2.0
 
