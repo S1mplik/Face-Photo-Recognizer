@@ -20,6 +20,6 @@ If you have use live face recognition extract
 
 ## How it works:
 System using [face_recognition](https://github.com/ageitgey/face_recognition) and [speech_recognition](https://github.com/Uberi/speech_recognition). First program load database.
-Your database are on Images and ImageAtendace folders. You can editing folders. If program finish encoding activate camera and detection comformity with your images. Of cource if system
+Your database are on Images and ImageAtendace folders. You can editing folders. If program finish encoding activate camera and detection conformity with your images. Of cource if system
 detected comformity with Elon Musk enable voice assistant on 100 lines.
 
